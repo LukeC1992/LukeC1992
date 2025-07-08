@@ -19,7 +19,7 @@ I'll also be attending **Matt Pocock’s AI Cohort** in July 2025, where I'm foc
 - Git / GitHub / Linux / VS Code
 - Android Studio / Expo Go
 - Postman / Figma / Supabase
-- PostgreSQL / Prisma (learning)
+- PostgreSQL 
 
 ### 🌱 Currently Learning:
 - AI/LLM integrations (LangChain, OpenAI API)
